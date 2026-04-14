@@ -21,3 +21,8 @@ menu items, staff, and customers. Built with Oracle SQL.
 1. Run schema.sql to create all tables
 2. Run sample_data.sql to insert sample data
 3. Run reset.sql to drop all tables and start fresh
+
+## Database
+- Platform: Oracle
+- Tables: 7
+- Sample records: 5 customers, 10 menu items, 5 orders, 12 order items
