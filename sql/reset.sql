@@ -1,3 +1,7 @@
+-- Author: [your name]
+-- Date: [today's date]
+-- Description: Reset script - drops all tables in reverse order
+
 -- ============================================
 -- Restaurant Order Management System
 -- reset.sql
