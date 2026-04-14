@@ -1,3 +1,6 @@
+-- Author: [your name]
+-- Date: [today's date]
+-- Description: Restaurant Order Management System Schema
 -- ============================================
 -- Restaurant Order Management System
 -- schema.sql
