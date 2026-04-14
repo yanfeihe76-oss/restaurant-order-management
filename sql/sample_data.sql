@@ -1,3 +1,7 @@
+-- Author: [your name]
+-- Date: [today's date]
+-- Description: Sample data for Restaurant Order Management System
+
 -- ============================================
 -- Restaurant Order Management System
 -- sample_data.sql
